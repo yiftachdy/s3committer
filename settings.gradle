@@ -1,1 +1,6 @@
-rootProject.name = 's3committer'
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+
+    }
+}
